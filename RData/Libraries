@@ -1,2 +1,26 @@
- Libraries to install necessary for the simulation study and the real data application
+# Libraries to install necessary for the simulation study and the real data application
+
+library(gridExtra)
+library(furrr)
+library(tibble)
+library(dplyr)
+library(purrr)
+library(progressr)
+library(parallel)
+library(pbapply)
+library(spatstat)
+library(stpp) 
+library(stopp)
+library(mgcv)
+
+library(doParallel)
+library(foreach)
+library(future.apply)
+
+library(sf)
+library(ggplot2)
+library(rnaturalearth)
+library(rnaturalearthdata)
+library(plotly)
+library(scales)
 
